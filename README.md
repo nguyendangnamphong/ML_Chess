@@ -4,5 +4,5 @@ A chess use **AI model** to predict move
     
 Model: Python           
 Positive: Understand rule, Effecive      
-Negative: Because I have create it with a small data, so it very dump              
+Negative: Because we have create it with a small data, so it very dump              
 ![z6017312287996_f2255a0d52893958fd45ac412dcdfb13](https://github.com/user-attachments/assets/3cf7bd78-4df7-4370-97c0-55cca7f5ad4a)        
